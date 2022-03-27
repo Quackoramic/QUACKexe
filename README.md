@@ -1,16 +1,13 @@
-########### QUACK_exe
+# QUACK_exe
+======
 
-<!--
-**QUACKexe/QUACKexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hello there!** I am QUACK_exe, a 16 year-old self-taught developer. I currently code websites for fun!
+I love programming, Minecraft server development, music, and much more.
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  * [Solo.to](https://solo.to/quack/)
+  * [My website](https://quack.codes/)
+  * [exe's Lounge](https://exelounge.net)
+  * [Cloaks+](https://cloaks.plus/)
+  * [Badlion](https://badlion.net/)
