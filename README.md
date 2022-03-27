@@ -10,3 +10,7 @@ I love programming, Minecraft server development, music, and much more.
   * [exe's Lounge](https://exelounge.net)
   * [Cloaks+](https://cloaks.plus/)
   * [Badlion](https://badlion.net/)
+
+### Contact me
+  * [Discord](https://discord.com/users/459723047377698826)
+  * [E-mail](mailto://quack@exelounge.net/)
