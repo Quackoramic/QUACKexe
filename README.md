@@ -1,5 +1,4 @@
 # QUACK_exe
-======
 
 **Hello there!** I am QUACK_exe, a 16 year-old self-taught developer. I currently code websites for fun!
 I love programming, Minecraft server development, music, and much more.
