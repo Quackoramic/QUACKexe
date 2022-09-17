@@ -5,7 +5,7 @@ I love programming, Minecraft server development, music, and much more.
 
 ### Links
 
-  * [Solo.to](https://solo.to/quack/)
+  * [solo.to](https://solo.to/quack/)
   * [My website](https://quack.codes/)
   * [exe's Lounge](https://exelounge.net)
   * [Cloaks+](https://cloaks.plus/)
@@ -13,4 +13,4 @@ I love programming, Minecraft server development, music, and much more.
 
 ### Contact me
   * [Discord](https://discord.com/users/459723047377698826)
-  * [E-mail](mailto://quack@exelounge.net/)
+  * [E-mail](mailto://me@quack.codes/)
